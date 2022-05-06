@@ -124,7 +124,7 @@ en    English
 
 ### Special Credits ❤️❤️
 - [Jankari Ki Duniya](https://github.com/jankarikiduniya): Dev Ulo
-- [Asad Ali](https://t.me/Dr_Asad_Ali): Dev Chutiya
+- [Asad Ali](https://t.me/Dr_Asad_Ali): Dev 
 - [Harshit](https://t.me/HarshitSharma361): Support Bhai Ki Jan ❤️
 ### Support & Updates ❤️❤️
 <a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
