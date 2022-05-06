@@ -123,7 +123,7 @@ en    English
 
 
 ### Special Credits ❤️❤️
-- [Jankari Ki Duniya](https://github.com/jankarikiduniya): Dev Ulo
+- [Jankari Ki Duniya](https://github.com/jankarikiduniya): Dev
 - [Asad Ali](https://t.me/Dr_Asad_Ali): Dev 
 - [Harshit](https://t.me/HarshitSharma361): Support Bhai Ki Jan ❤️
 ### Support & Updates ❤️❤️
