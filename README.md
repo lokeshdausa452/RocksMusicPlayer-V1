@@ -123,8 +123,8 @@ en    English
 
 
 ### Special Credits ❤️❤️
-- [Jankari Ki Duniya](https://github.com/jankarikiduniya): Dev
-- [Asad Ali](https://t.me/Dr_Asad_Ali): Dev 
-- [Harshit](https://t.me/HarshitSharma361): Support Bhai Ki Jan ❤️
+- [Jankari Ki Duniya](https://github.com/lokeshdausa452): Dev
+- [Asad Ali](https://t.me/Dausa_123): Dev 
+- [Harshit](https://t.me/kalam_kranti): Support Bhai Ki Jan ❤️
 ### Support & Updates ❤️❤️
 <a href="https://t.me/kalam_kranti"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
