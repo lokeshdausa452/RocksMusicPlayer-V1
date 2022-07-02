@@ -60,7 +60,7 @@ thanks to the translators.
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/jankarikiduniya/RocksMusicPlayer
+$ git clone https://github.com/lokeshdausa452/RocksMusicPlayer
 $ cd MusicPlayer
 $ cp sample.env .env
 < edit .env with your own values >
@@ -127,4 +127,4 @@ en    English
 - [Asad Ali](https://t.me/Dr_Asad_Ali): Dev 
 - [Harshit](https://t.me/HarshitSharma361): Support Bhai Ki Jan ❤️
 ### Support & Updates ❤️❤️
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/kalam_kranti"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
